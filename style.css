@@ -178,6 +178,7 @@ div.texto{
 div.texto > p{
     text-align: center;
 }
+/* Centraliza a imagem principal e a foto de grupo */
 main article picture, 
 main article img {
     display: block;
